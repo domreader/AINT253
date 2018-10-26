@@ -4,18 +4,21 @@ using UnityEngine;
 
 public class doorOpen : MonoBehaviour {
 
+    Animator anim;
 
-        // Update is called once per frame
+    void Start()
+    {
+
+        anim = GetComponent<Animator>();
+
+    }
+
+    // Update is called once per frame
     void Update() {
 
-        if (Input.GetKeyDown(KeyCode.E))
-        {
-            Animator anim = GetComponent<Animator>();
-            if (null != anim)
-            {
-                Debug.Log("Playing anim");
-                anim.Play("anim");
-            }
-        }
+        if (Input.GetKeyDown(KeyCode.E)) anim.SetTrigger("DoorOpen");
+
+        if (Input.GetKeyDown(KeyCode.R)) anim.SetTrigger("DoorShut");
+        
     }
 }
