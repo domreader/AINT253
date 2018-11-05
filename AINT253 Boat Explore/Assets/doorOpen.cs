@@ -18,7 +18,7 @@ public class doorOpen : MonoBehaviour {
 
         if (Input.GetKeyDown(KeyCode.E)) anim.SetTrigger("DoorOpen");
 
-        if (Input.GetKeyDown(KeyCode.R)) anim.SetTrigger("DoorShut");
+        if (Input.GetKeyDown(KeyCode.R)) anim.SetTrigger("DoorClosed");
         
     }
 }

@@ -1,28 +1,20 @@
 fileFormatVersion: 2
-guid: 3f3be3919cab29b4f9ca41e17be9abf8
+guid: a4cf3f7730044bd4e85c989f4b80402f
+timeCreated: 1541452131
+licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: Cone001
+    100000: Box001
     100002: //RootNode
-    100004: Door other side
-    100006: Sphere001
-    400000: Cone001
+    100004: Text001
+    400000: Box001
     400002: //RootNode
-    400004: Door other side
-    400006: Sphere001
-    2100000: 'Material #27'
-    2100002: No Name
-    2300000: Cone001
-    2300002: Door other side
-    2300004: Sphere001
-    3300000: Cone001
-    3300002: Door other side
-    3300004: Sphere001
-    4300000: Door other side
-    4300002: Sphere001
-    4300004: Cone001
-    7400000: Take 001
+    400004: Text001
+    2100000: No Name
+    2300000: Box001
+    3300000: Box001
+    4300000: Box001
     9500000: //RootNode
   externalObjects: {}
   materials:
@@ -43,7 +35,6 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
-    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
