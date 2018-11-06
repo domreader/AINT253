@@ -1,56 +1,46 @@
 fileFormatVersion: 2
-guid: a631cade4022be34d85b56da858619e4
+guid: 47026d04db61a5e46b8dd8f029c78dcb
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: Back Panel
-    100002: Floor
-    100004: Handle 1
-    100006: Handle 2
-    100008: Left Door
-    100010: Left Panel
-    100012: Right Door
-    100014: Right Panel
-    100016: Roof
-    100018: //RootNode
-    400000: Back Panel
-    400002: Floor
-    400004: Handle 1
-    400006: Handle 2
-    400008: Left Door
-    400010: Left Panel
-    400012: Right Door
-    400014: Right Panel
-    400016: Roof
-    400018: //RootNode
-    2100000: No Name
-    2300000: Back Panel
-    2300002: Floor
+    100000: //RootNode
+    100002: Door
+    100004: Frame001
+    100006: Handle 1
+    100008: Handle 2
+    100010: Handle 3
+    100012: Handle 4
+    100014: Wall
+    400000: //RootNode
+    400002: Door
+    400004: Frame001
+    400006: Handle 1
+    400008: Handle 2
+    400010: Handle 3
+    400012: Handle 4
+    400014: Wall
+    2100000: 'Material #26'
+    2300000: Door
+    2300002: Frame001
     2300004: Handle 1
     2300006: Handle 2
-    2300008: Left Door
-    2300010: Left Panel
-    2300012: Right Door
-    2300014: Right Panel
-    2300016: Roof
-    3300000: Back Panel
-    3300002: Floor
+    2300008: Handle 3
+    2300010: Handle 4
+    2300012: Wall
+    3300000: Door
+    3300002: Frame001
     3300004: Handle 1
     3300006: Handle 2
-    3300008: Left Door
-    3300010: Left Panel
-    3300012: Right Door
-    3300014: Right Panel
-    3300016: Roof
-    4300000: Back Panel
-    4300002: Floor
-    4300004: Left Door
-    4300006: Roof
-    4300008: Right Door
-    4300010: Handle 1
-    4300012: Handle 2
-    4300014: Right Panel
-    4300016: Left Panel
+    3300008: Handle 3
+    3300010: Handle 4
+    3300012: Wall
+    4300000: Wall
+    4300002: Frame001
+    4300004: Door
+    4300006: Handle 1
+    4300008: Handle 2
+    4300010: Handle 3
+    4300012: Handle 4
   externalObjects: {}
   materials:
     importMaterials: 1

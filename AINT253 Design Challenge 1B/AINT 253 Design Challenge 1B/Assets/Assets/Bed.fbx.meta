@@ -4,29 +4,28 @@ ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Box001
-    100004: End of Bed
-    100006: Mattress
-    100008: Top of Bed
+    100002: Foot of Bed
+    100004: Frame
+    100006: Head Board
+    100008: Mattress
     400000: //RootNode
-    400002: Box001
-    400004: End of Bed
-    400006: Mattress
-    400008: Top of Bed
-    2100000: No Name
-    2100002: 'Material #25'
-    2300000: Box001
-    2300002: End of Bed
-    2300004: Mattress
-    2300006: Top of Bed
-    3300000: Box001
-    3300002: End of Bed
-    3300004: Mattress
-    3300006: Top of Bed
-    4300000: Top of Bed
-    4300002: End of Bed
-    4300004: Mattress
-    4300006: Box001
+    400002: Foot of Bed
+    400004: Frame
+    400006: Head Board
+    400008: Mattress
+    2100000: 'Material #25'
+    2300000: Foot of Bed
+    2300002: Frame
+    2300004: Head Board
+    2300006: Mattress
+    3300000: Foot of Bed
+    3300002: Frame
+    3300004: Head Board
+    3300006: Mattress
+    4300000: Frame
+    4300002: Foot of Bed
+    4300004: Head Board
+    4300006: Mattress
   externalObjects: {}
   materials:
     importMaterials: 1
