@@ -22,19 +22,18 @@ public class doorOpen : MonoBehaviour {
         {
             enter = true;
         }
-    }
-    private void OnTriggerExit(Collider other)
-    {
-        if (other.CompareTag("Player"))
+        else
         {
             enter = false;
         }
     }
+    
+
+
     // Update is called once per frame
-    void Update() {
+    void Update() {          
 
-
-            
+      
             
             if (Input.GetKeyDown(KeyCode.E) & (enter == true)) anim.SetTrigger("DoorOpen");
 
