@@ -1,32 +1,14 @@
 fileFormatVersion: 2
-guid: 992d04e7076ac634c86db899ce736485
+guid: 0a02e36bdfbbd7e4dadf7a7d3a0456e8
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Box001
-    100004: Box002
-    100006: Frame
-    100008: Mattress
     400000: //RootNode
-    400002: Box001
-    400004: Box002
-    400006: Frame
-    400008: Mattress
-    2100000: 'Material #26'
-    2100002: No Name
-    2300000: Box001
-    2300002: Box002
-    2300004: Frame
-    2300006: Mattress
-    3300000: Box001
-    3300002: Box002
-    3300004: Frame
-    3300006: Mattress
-    4300000: Frame
-    4300002: Mattress
-    4300004: Box001
-    4300006: Box002
+    2100000: No Name
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Box001
   externalObjects: {}
   materials:
     importMaterials: 1

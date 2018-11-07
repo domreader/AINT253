@@ -1,32 +1,56 @@
 fileFormatVersion: 2
-guid: 992d04e7076ac634c86db899ce736485
+guid: cb8f8fe5262ee914094f0a12cf35eb60
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: Box001
-    100004: Box002
-    100006: Frame
-    100008: Mattress
-    400000: //RootNode
-    400002: Box001
-    400004: Box002
-    400006: Frame
-    400008: Mattress
-    2100000: 'Material #26'
-    2100002: No Name
-    2300000: Box001
-    2300002: Box002
-    2300004: Frame
-    2300006: Mattress
-    3300000: Box001
-    3300002: Box002
-    3300004: Frame
-    3300006: Mattress
-    4300000: Frame
-    4300002: Mattress
-    4300004: Box001
-    4300006: Box002
+    100000: Back Panel
+    100002: Floor
+    100004: Handle 1
+    100006: Handle 2
+    100008: Left Panel
+    100010: PivotDoor001
+    100012: PivotDoor002
+    100014: Right Panel
+    100016: Roof
+    100018: //RootNode
+    400000: Back Panel
+    400002: Floor
+    400004: Handle 1
+    400006: Handle 2
+    400008: Left Panel
+    400010: PivotDoor001
+    400012: PivotDoor002
+    400014: Right Panel
+    400016: Roof
+    400018: //RootNode
+    2100000: No Name
+    2300000: Back Panel
+    2300002: Floor
+    2300004: Handle 1
+    2300006: Handle 2
+    2300008: Left Panel
+    2300010: PivotDoor001
+    2300012: PivotDoor002
+    2300014: Right Panel
+    2300016: Roof
+    3300000: Back Panel
+    3300002: Floor
+    3300004: Handle 1
+    3300006: Handle 2
+    3300008: Left Panel
+    3300010: PivotDoor001
+    3300012: PivotDoor002
+    3300014: Right Panel
+    3300016: Roof
+    4300000: Back Panel
+    4300002: Floor
+    4300004: Roof
+    4300006: Handle 1
+    4300008: Handle 2
+    4300010: Left Panel
+    4300012: Right Panel
+    4300014: PivotDoor001
+    4300016: PivotDoor002
   externalObjects: {}
   materials:
     importMaterials: 1
