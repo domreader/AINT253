@@ -1,32 +1,35 @@
 fileFormatVersion: 2
-guid: 992d04e7076ac634c86db899ce736485
+guid: 26c885525f7326247af3e5eb8675472c
+timeCreated: 1541686165
+licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Box001
-    100004: Box002
-    100006: Frame
+    100002: Foot of Bed
+    100004: Frame
+    100006: HeadBoard
     100008: Mattress
     400000: //RootNode
-    400002: Box001
-    400004: Box002
-    400006: Frame
+    400002: Foot of Bed
+    400004: Frame
+    400006: HeadBoard
     400008: Mattress
     2100000: 'Material #26'
     2100002: No Name
-    2300000: Box001
-    2300002: Box002
-    2300004: Frame
+    2300000: Foot of Bed
+    2300002: Frame
+    2300004: HeadBoard
     2300006: Mattress
-    3300000: Box001
-    3300002: Box002
-    3300004: Frame
+    3300000: Foot of Bed
+    3300002: Frame
+    3300004: HeadBoard
     3300006: Mattress
     4300000: Frame
     4300002: Mattress
-    4300004: Box001
-    4300006: Box002
+    4300004: Foot of Bed
+    4300006: HeadBoard
+    9500000: //RootNode
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -46,7 +49,6 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
-    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -102,7 +104,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
